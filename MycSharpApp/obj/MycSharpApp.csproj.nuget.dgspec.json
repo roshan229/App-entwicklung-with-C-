@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\MycSharpApp\\MycSharpApp.csproj": {}
+    "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\App-entwicklung-with-C-\\MycSharpApp\\MycSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\MycSharpApp\\MycSharpApp.csproj": {
+    "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\App-entwicklung-with-C-\\MycSharpApp\\MycSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\MycSharpApp\\MycSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\App-entwicklung-with-C-\\MycSharpApp\\MycSharpApp.csproj",
         "projectName": "MycSharpApp",
-        "projectPath": "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\MycSharpApp\\MycSharpApp.csproj",
+        "projectPath": "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\App-entwicklung-with-C-\\MycSharpApp\\MycSharpApp.csproj",
         "packagesPath": "C:\\Users\\rosan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\MycSharpApp\\obj\\",
+        "outputPath": "C:\\Users\\rosan\\OneDrive\\Dokumente\\Project\\C#\\App-entwicklung-with-C-\\MycSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rosan\\AppData\\Roaming\\NuGet\\NuGet.Config"
